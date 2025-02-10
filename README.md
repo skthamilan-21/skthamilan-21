@@ -29,7 +29,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🔭 I’m currently studying MCA
 - 🌱 I’m currently learning UI/UX
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-adithv-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/skthamilan-211412001b4/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-skthamilan-21-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/skthamilan-211412001b4/)
 
 ---
 
